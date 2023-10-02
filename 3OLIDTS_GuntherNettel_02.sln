@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3OLIDTS_GuntherNettel_02", "3OLIDTS_GuntherNettel_02.csproj", "{3EDCEF07-009A-4D3F-953B-BDD0CDEA3272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDCEF07-009A-4D3F-953B-BDD0CDEA3272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDCEF07-009A-4D3F-953B-BDD0CDEA3272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDCEF07-009A-4D3F-953B-BDD0CDEA3272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDCEF07-009A-4D3F-953B-BDD0CDEA3272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF8F7D0-918B-4BA8-AD5F-D6C1059825B9}
+	EndGlobalSection
+EndGlobal
